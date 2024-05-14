@@ -6,7 +6,7 @@
 ...with a strong interest in web development. Currently, I work as a data entry specialist at a local educational center and also take on freelance development projects. With 2 years of experience gained through personal projects, I have honed my skills in various technologies.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Astro-Boot&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/badge/Sígueme%20en%20Instagram-grey?style=for-the-badge&logo=instagram" </p>
+<p align="left"> <a href="https://instagram.com/javvee.dev" target="blank"><img src="https://img.shields.io/badge/Sígueme%20en%20Instagram-grey?style=for-the-badge&logo=instagram" </p>
 
 
 
