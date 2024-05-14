@@ -20,11 +20,11 @@ Skills: **VUE JS / REACT / JS / HTML / CSS**
 - 😄 Pronouns: **He/Him**
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Astro-Boot)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Astro-Boot)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Astro-Boot&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Astro-Boot&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="rishavchanda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Astro-Boot&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Astro-Boot&show_icons=true&locale=en&theme=ambient_gradient" alt="rishavchanda" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Astro-Boot&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Astro-Boot&&theme=ambient_gradient" alt="rishavchanda" /></p>
 
