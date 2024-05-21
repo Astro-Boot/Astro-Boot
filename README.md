@@ -9,8 +9,6 @@
 <p align="left"> <a href="https://instagram.com/javvee.dev" target="blank"><img src="https://img.shields.io/badge/Sígueme%20en%20Instagram-grey?style=for-the-badge&logo=instagram" </p>
 
 
-
-
 Skills: **VUE JS / REACT / JS / HTML / CSS**
 
 - 🔭 I’m currently working on **University degree project.**
