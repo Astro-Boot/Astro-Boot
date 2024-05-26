@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Astro-Boot&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 <p align="left"> <a href="https://instagram.com/javvee.dev" target="blank"><img src="https://img.shields.io/badge/Sígueme%20en%20Instagram-grey?style=for-the-badge&logo=instagram" </p>
 
-
 Skills: **VUE JS / REACT / JS / HTML / CSS**
 
 - 🔭 I’m currently working on **University degree project.**
