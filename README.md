@@ -16,7 +16,7 @@ Skills: **VUE JS / REACT / JS / HTML / CSS**
 - 🤔 I’m looking for **Expanding tech network and finding mentorship.**
 - 💬 Ask me about **Full Stack Web development**
 - 😄 Pronouns: **He/Him**
-- 
+-      
 [![trophy](https://github-profile-trophy.vercel.app/?username=Astro-Boot)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Astro-Boot&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="rishavchanda" /></p>
